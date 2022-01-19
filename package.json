@@ -1,0 +1,21 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "description": "Express js code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Gireesh R Haridas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  }
+}
